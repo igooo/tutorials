@@ -1,0 +1,10 @@
+###
+GRPC localhost:9090/org.igooo.grpc.UserManagement/CreateUser
+
+{
+  "name": "igooo",
+  "age": 10
+}
+
+###
+GRPC localhost:9090/org.igooo.grpc.UserManagement/FindUsers
